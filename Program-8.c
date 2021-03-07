@@ -1,5 +1,5 @@
 //INPUT:12
-//OUTPUT: y=13  y=13  y=13  y=13
+//OUTPUT: y = 13  y = 13  y = 13  y = 13
 #include<stdio.h>
 int main()
 {
