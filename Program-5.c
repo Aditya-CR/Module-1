@@ -1,5 +1,5 @@
 //INPUT: 5 7
-//OUTPUT: 7 13    6 14
+//OUTPUT: 7 13   6 14
 // insert the missing line
  int main ()
 { 
