@@ -1,5 +1,5 @@
 //INPUT: 95 90.99 A
-//OUTPUT: i value is 90 x value is 90.00000 i value is 65
+//OUTPUT: i value is: 90 x value is: 90.000000 i value is: 65
 
 #include<stdio.h>
 int main() // correct the code
