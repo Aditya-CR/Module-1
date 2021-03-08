@@ -1,5 +1,5 @@
 //INPUT: 2.4 1.12
-//OUTPUT: Product= 2.69
+//OUTPUT: Product = 2.69
 #include <stdio.h>
 int main() 
     //correct the code
