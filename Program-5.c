@@ -10,5 +10,4 @@ scanf("%d%d",&i,&j);
       j = j + i + 1  // correct the code
       printf("%d %d   ",i + 1, j - 1);
       printf("%d %d", i, j);
-return 0;
-}
+return 0;}
