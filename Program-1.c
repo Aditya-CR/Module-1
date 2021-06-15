@@ -5,10 +5,10 @@ int main        // correct the code
 {   
     int number;
    
-    printf("Enter the integer: ")     // Correct the code
     
-    // reads and stores input
-    scanf("%d", &number);
+    
+    // read a number
+    scanf("%d", &number) // Correct the code
 
     // displays output
     printf("You entered: %", number);// Correct the code
