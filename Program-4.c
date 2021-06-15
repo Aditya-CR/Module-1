@@ -1,9 +1,8 @@
 //INPUT: 25 4
-//OUTPUT: Quotient = 6 Remainder = 1 
+//OUTPUT: Quotient = 6 and Remainder = 1 
 #include <stdio.h>
 int main() {
     int dividend, divisor, quotient, remainder;
-    //printf("Enter dividend and Divisor ");
     scanf("%d%d", &dividend,&divisor)  //correct the code
    
     // Computes quotient
@@ -12,7 +11,6 @@ int main() {
     // Computes remainder
     remainder = dividend  divisor; // correct the code
 
-    printf("Quotient =  ", quotient);  // correct the code
-    printf("Remainder = ", remainder);  // correct the code
+    printf("Quotient = % and Remainder = %", quotient);  // correct the code
     return 0;
 }
