@@ -1,14 +1,15 @@
 //INPUT: 12
-//OUTPUT: Square root of 12.00 = 3.46
+//OUTPUT: 3.46
 #include <stdio.h>
-// include the missing line
+                     //correct the code : include header file
 int main()
 {
    float num, root;
-   printf(": ");   // Correct the code
+   //read a number
    scanf("%f", &num);
    // Computes the square root of num and stores in root.
    root = sqrt(num);
-   printf("Square root of %.2f = %.2f", , );  // Correct the code
+   //print the square root
+   printf("%.2f", );   // Correct the code
    return 0;
 }
