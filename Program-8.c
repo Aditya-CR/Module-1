@@ -4,12 +4,12 @@
 int main()
 {
     int x, y;
-    printf(" Enter the value of x: ");
-    // insert the missing code
-    printf("y = %d  ",y=++x)
-    printf("y = %d  ",y=x++)
-    printf("y = %d  ",y=--x)
-    printf("y = %d  ",y=x--) // correct the code 
+    //Enter the value of x
+                              //correct the code : read the value for x
+    printf("y = %d  ",y=++x);
+    print ("y = %d  ",y=x++) //correct the code 
+    printf("y = %d  ",y=--x);
+    printf("y = %d  ",y=x--);
     return 0;
 }
 
